@@ -1,7 +1,7 @@
 ### Hi there 👋, Angel Qui
 #### Development
 
-![Developmemt](https://c.tenor.com/Wsljd2rfKsYAAAAd/orsted-mushoku-tensei.gif)
+![IMG](./tumblr_pzl905GrcZ1s307p6o9_540.webp)
 
 <!--
 **migurd/migurd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
