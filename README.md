@@ -27,5 +27,3 @@ C / TypeScript / JavaScript / HTML / CSS / Python
 _______________
 
 Languajes: [ESP: N, ENG: B2, JP: JLPT5]
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=migurd)](https://github.com/anuraghazra/github-readme-stats)
