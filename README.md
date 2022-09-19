@@ -3,9 +3,9 @@
 
 Hello! I'm Angel from México, and I'm studying IT. Also, I have interest in C and TS. ⚡
 
-![IMG](./tumblr_pzl905GrcZ1s307p6o9_540.webp)
 
 <!--
+![IMG](./tumblr_pzl905GrcZ1s307p6o9_540.webp)
 **migurd/migurd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
