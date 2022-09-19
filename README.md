@@ -1,4 +1,4 @@
-### Hi there 👋, Angel Qui
+### Hi there 👋, Angel Q.
 #### Development
 
 Hello! I'm Angel from México, and I'm studying IT. Also, I have interest in C and TS. ⚡
