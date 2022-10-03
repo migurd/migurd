@@ -1,27 +1,24 @@
-### Hi there 👋, Angel Q.
-#### Development
+<h2 align="center">𝙰𝚗𝚐𝚎𝚕 𝚀𝚞𝚒 🇲🇽</h2>
 
-Hello! I'm Angel from México, and I'm studying IT. Also, I have interest in C and TS. ⚡
+<p align="center">𝘚𝘵𝘶𝘥𝘺𝘪𝘯𝘨 𝘐𝘛.</p> 
 
+<details align="center">
+  <summary> <samp>&#9776; 𝙇𝙖𝙣𝙜𝙪𝙖𝙟𝙚𝙨</samp></summary>
+    <p align="center">
+      <br>
+      <!--<a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a> -->
+      <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+      <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+      <!-- <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a> -->
+      <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+      <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+      <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+      <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+      <!-- <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"><img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a> -->
+    </p>
+    <img src="https://github.com/migurd/migurd/blob/master/dot_rokisi.gif" width="150">
+  </samp>
+</details>
 
-<!--
-![IMG](./tumblr_pzl905GrcZ1s307p6o9_540.webp)
-**migurd/migurd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-___________
-<h3 align="left">Skills</h3>
-<p align="left"> <a href="(https://youtu.be/dQw4w9WgXcQ)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-
-Languajes: [ESP, ENG, JP]
+<!-- Badges taken from: https://dev.to/envoy_/150-badges-for-github-pnk -->
+<!-- Inspired in: https://github.com/kevinjycui/kevinjycui :^) -->
