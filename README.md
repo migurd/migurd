@@ -1,6 +1,6 @@
 <h2 align="center">𝙰𝚗𝚐𝚎𝚕 𝚀𝚞𝚒 🇲🇽</h2>
 
-<p align="center">𝘚𝘵𝘶𝘥𝘺𝘪𝘯𝘨 𝘐𝘛.</p> 
+<p align="center">𝘚𝘵𝘶𝘥𝘺𝘪𝘯𝘨 𝘐𝘛</p> 
 
 <details align="center">
   <summary> <samp>&#9776; 𝙇𝙖𝙣𝙜𝙪𝙖𝙟𝙚𝙨</samp></summary>
